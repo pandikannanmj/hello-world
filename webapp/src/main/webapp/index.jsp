@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h2> by, Pandikannan MJ</h2>
+   <h2> by, Pandikannan MJ - Devops</h2>
 
   
 </form>
